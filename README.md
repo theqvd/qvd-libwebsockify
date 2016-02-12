@@ -3,6 +3,8 @@ libwebsockify
 
 Qindel QVD websockify library based on the work from Joel Martin
 
+See: https://github.com/kanaka/websockify
+
 The main differences are the build into library and some socket
 settings
 
